@@ -23,6 +23,12 @@
       "day": "October 31st at Midnight",
       "reminder": false,
       "id": 5
+    },
+    {
+      "text": "Apply to new position",
+      "day": "Every Tuesday at 2:30",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
