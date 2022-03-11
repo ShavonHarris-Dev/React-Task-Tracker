@@ -1,5 +1,5 @@
-# React: <a href="reacttasktrackerdemo.netlify.app" target="_blank">Task Tracker</a>
-<a href="reacttasktrackerdemo.netlify.app" target="_blank"><img src="https://media.giphy.com/media/wKPmvx2kvpEnK9Bqfw/giphy.gif" /></a>
+# React: <a href="https://reacttasktrackerdemo.netlify.app/" target="_blank">Task Tracker</a>
+<a href="https://reacttasktrackerdemo.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/wKPmvx2kvpEnK9Bqfw/giphy.gif" /></a>
 
 This was my most involved React App. I used hooks and states for the first time to create a beautiful UI. I also used server.json to mimic a backend.
 
