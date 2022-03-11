@@ -29,6 +29,12 @@
       "day": "Every Tuesday at 2:30",
       "reminder": true,
       "id": 6
+    },
+    {
+      "text": "Run a 5k",
+      "day": "Feb 7th at 5:00",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
